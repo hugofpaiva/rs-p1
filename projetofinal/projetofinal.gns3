@@ -25,6 +25,78 @@
                 "x": -587,
                 "y": 286,
                 "z": 0
+            },
+            {
+                "drawing_id": "d3384946-a510-4cab-9fc9-46ed0c4374cd",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": -562,
+                "y": 439,
+                "z": 2
+            },
+            {
+                "drawing_id": "e1260381-576b-4f60-9ca8-29bf326a4fd9",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": -468,
+                "y": 445,
+                "z": 2
+            },
+            {
+                "drawing_id": "51b600ff-5c11-4121-83c9-0121090d6e2d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": -194,
+                "y": 453,
+                "z": 2
+            },
+            {
+                "drawing_id": "2e081577-7e0c-4b5d-a0fb-21722c02d338",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">P\u00fablico</text></svg>",
+                "x": -282,
+                "y": 450,
+                "z": 2
+            },
+            {
+                "drawing_id": "57b7243e-0107-4c45-9b4e-1b4abb511bd1",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": 88,
+                "y": 445,
+                "z": 2
+            },
+            {
+                "drawing_id": "cf7b34bd-997c-4a24-95ba-229badddf1f8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": -12,
+                "y": 446,
+                "z": 2
+            },
+            {
+                "drawing_id": "bb6c8ba6-9f00-4018-afa4-226c5e9a3f16",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": 365,
+                "y": 444,
+                "z": 2
+            },
+            {
+                "drawing_id": "869f9df2-fb01-4be6-ab4a-834f11e2fb00",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">P\u00fablico</text></svg>",
+                "x": 255,
+                "y": 445,
+                "z": 2
             }
         ],
         "links": [
@@ -1221,7 +1293,7 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -290,
+                "x": -289,
                 "y": 380,
                 "z": 1
             },
@@ -1313,22 +1385,25 @@
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 2
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 3
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 4
                         },
                         {
                             "name": "Ethernet4",
@@ -1395,22 +1470,25 @@
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 2
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 3
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 4
                         },
                         {
                             "name": "Ethernet4",
