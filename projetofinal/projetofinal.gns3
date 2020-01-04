@@ -286,6 +286,24 @@
                 "x": -20,
                 "y": -16,
                 "z": 2
+            },
+            {
+                "drawing_id": "2473e958-eff4-4b93-a08a-541e23fee67a",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">P\u00fablico</text></svg>",
+                "x": 442,
+                "y": 215,
+                "z": 2
+            },
+            {
+                "drawing_id": "42ccdfa0-3a20-4822-a90d-4462c0ef1115",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"20\" width=\"43\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">Privado</text></svg>",
+                "x": 623,
+                "y": 214,
+                "z": 2
             }
         ],
         "links": [
@@ -1998,9 +2016,10 @@
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
