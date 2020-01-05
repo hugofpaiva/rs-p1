@@ -1441,7 +1441,7 @@
                 "template_id": "46e24b2e-7c5e-4d8e-9dd1-7170fae87630",
                 "width": 51,
                 "x": 245,
-                "y": 49,
+                "y": 48,
                 "z": 1
             },
             {
@@ -1470,7 +1470,7 @@
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
                 "x": -289,
-                "y": 380,
+                "y": 381,
                 "z": 1
             },
             {
@@ -1528,7 +1528,7 @@
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
                 "x": -204,
-                "y": 384,
+                "y": 383,
                 "z": 1
             },
             {
@@ -1871,7 +1871,7 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -646,
+                "x": -645,
                 "y": -152,
                 "z": 1
             },
@@ -2586,7 +2586,7 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -643,
+                "x": -644,
                 "y": -293,
                 "z": 1
             },
