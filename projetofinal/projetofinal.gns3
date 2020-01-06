@@ -1440,8 +1440,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "46e24b2e-7c5e-4d8e-9dd1-7170fae87630",
                 "width": 51,
-                "x": 244,
-                "y": 45,
+                "x": 245,
+                "y": 48,
                 "z": 1
             },
             {
@@ -2093,7 +2093,7 @@
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
                 "x": 722,
-                "y": -61,
+                "y": -60,
                 "z": 1
             },
             {
@@ -2321,8 +2321,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "cb31f337-2971-4d4f-9066-20da7371aa4e",
                 "width": 66,
-                "x": -117,
-                "y": -202,
+                "x": -118,
+                "y": -201,
                 "z": 1
             },
             {
@@ -2459,7 +2459,7 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "cb31f337-2971-4d4f-9066-20da7371aa4e",
                 "width": 66,
-                "x": 96,
+                "x": 97,
                 "y": -202,
                 "z": 1
             },
@@ -2529,7 +2529,7 @@
                 "template_id": "cb31f337-2971-4d4f-9066-20da7371aa4e",
                 "width": 66,
                 "x": 513,
-                "y": -353,
+                "y": -354,
                 "z": 1
             },
             {
@@ -2587,7 +2587,7 @@
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
                 "x": -644,
-                "y": -293,
+                "y": -292,
                 "z": 1
             },
             {
