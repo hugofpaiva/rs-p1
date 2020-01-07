@@ -19,4 +19,4 @@ Estas instruções ajudarão a executar os programas desenvolvidos.
  - **Rui Fernandes - 92952**
 
 ## Nota
-Classificação obtida de **19.2** valores em **20**.
+Classificação obtida de **19.2** valores em 20.
