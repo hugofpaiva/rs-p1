@@ -2460,7 +2460,7 @@
                 "template_id": "cb31f337-2971-4d4f-9066-20da7371aa4e",
                 "width": 66,
                 "x": 97,
-                "y": -201,
+                "y": -202,
                 "z": 1
             },
             {
@@ -2586,8 +2586,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -645,
-                "y": -293,
+                "x": -644,
+                "y": -292,
                 "z": 1
             },
             {
@@ -2615,7 +2615,7 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -171,
+                "x": -170,
                 "y": -78,
                 "z": 1
             },
