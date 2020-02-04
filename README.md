@@ -11,14 +11,14 @@ Foi pedido um desenvolvimento de uma rede de comunicações, tal como a ilustrad
 Estas instruções ajudarão a executar a simulaçao desenvolvida.
 
 ### Requisitos
-Para executar a simulação, é necessário ter instalado o emulador GNS3, de preferência a versão 2.2.3, com os seguintes IOS router configurados:
+Para executar a simulação é necessário ter instalado o emulador GNS3, de preferência a versão 2.2.3, com os seguintes *IOS routers* configurados:
 
 <details>
 <summary>Configurações...</summary>
 <p>
-<p align="center"> <img src="https://hugopaiva.com/rs_git/conf1.png" width="550"> </p>
+<p align="center"> <img src="https://hugopaiva.com/rs_git/conf3.png" width="550"> </p>
  <p align="center"> <img src="https://hugopaiva.com/rs_git/conf2.png" width="550"> </p>
- <p align="center"> <img src="https://hugopaiva.com/rs_git/conf3.png" width="550"> </p>
+ <p align="center"> <img src="https://hugopaiva.com/rs_git/conf1.png" width="550"> </p>
 </p>
 </details> 
 
