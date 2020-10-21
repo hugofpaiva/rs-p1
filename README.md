@@ -2,7 +2,7 @@
 # Redes e Serviços - Trabalho 1
 
 ## Configuração da rede de comunicações de uma empresa, recorrendo ao emulador GNS3
-Foi pedido um desenvolvimento de uma rede de comunicações, tal como a ilustrada na figura abaixo, recorrendo ao emulador GNS3. Seguindo as diretivas presentes no [guião do projeto](Projeto.pdf), foi implementada esta solução.
+Foi pedido o desenvolvimento de uma rede de comunicações, tal como a ilustrada na figura abaixo, recorrendo ao emulador GNS3. Seguindo as diretivas presentes no [guião do projeto](Projeto.pdf), foi implementada esta solução.
 
 <p align="center"> <img src="https://hugopaiva.com/rs_git/projeto.png" width="550"> </p>
 
